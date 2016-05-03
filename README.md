@@ -2,10 +2,10 @@
 
 [![Join the chat at https://gitter.im/RapidPM/dynamic-cdi](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RapidPM/dynamic-cdi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Here we will start with an more dynamic version of the default cdi implementations.
+Here we will start with a more dynamic version of the default cdi implementations.
 This project is based on the project ***ProxyBuilder***.
 
-Please check out the HomePage for detailed informations. [www.dynamic-dependency-injection.org/](http://www.dynamic-dependency-injection.org/)
+Please check out the HomePage for detailed information. [www.dynamic-dependency-injection.org/](http://www.dynamic-dependency-injection.org/)
 
 
 This project could be used alone, but is developed for the project rapidpm-microservice. To get the full stack please check out the following projects.
